@@ -1,1 +1,1 @@
-export const serverURL = "http://localhost:5007"
+export const serverURL = "https://media-player-b0vr.onrender.com"
